@@ -11,6 +11,6 @@ In my case, the Y-axis end switches (yes they are one on each Y axis) are mounte
 
 So if the absolute positions are negative on the X and Z axes, they'll be positive on the Y axis. This in no way hinders g-code execution, but you do need to be careful when using G53 G0 Y... type commands.
 
-The openbuilds Fusion Processor is a slightly modified version including the default Y change, I have also added the use of the M7 command that turns the vaccuum on when selecting the vaccum in the tool selection of Fusion.
+The openbuilds Fusion Processor is a slightly modified version including the default Y change, I have also added the use of the M7 command that turns the vacuum on when selecting the vaccum in the tool selection of Fusion.
 
 Any comments are welcome.
