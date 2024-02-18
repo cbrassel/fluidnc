@@ -1,6 +1,6 @@
 board: XPro V5
 name: Bulkman 3d 1515
-meta: Config 29.11.2023
+meta: Config 18.02.2023
 
 stepping:
   engine: RMT
